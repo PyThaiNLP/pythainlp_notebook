@@ -1,0 +1,3 @@
+[submodule "cls/blackboard-treebank"]
+	path = cls/blackboard-treebank
+	url = https://bitbucket.org/kaamanita/blackboard-treebank.git
